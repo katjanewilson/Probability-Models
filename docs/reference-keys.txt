@@ -1,3 +1,8 @@
 geometric-model
 beta-distribution
 beta-distribution-1
+beta-and-gamma
+gamma-function
+beta-function
+general-shapes-of-the-beta-distribution
+shapes-of-beta-distribution
